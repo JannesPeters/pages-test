@@ -1,0 +1,16 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - button "Toggle theme" [ref=e4]:
+        - img
+        - generic [ref=e5]: Toggle theme
+    - main [ref=e6]:
+      - heading "Boilerplate" [level=1] [ref=e7]
+      - paragraph [ref=e8]: Next.js + TypeScript + Tailwind CSS + shadcn/ui. Fork this repo and start building.
+      - button "Get started" [ref=e10] [cursor=pointer]:
+        - text: Get started
+        - img
+  - region "Notifications alt+T"
+  - button "Open Next.js Dev Tools" [ref=e16] [cursor=pointer]:
+    - img [ref=e17]
+  - alert [ref=e20]

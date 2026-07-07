@@ -1,0 +1,7 @@
+[     132ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3003/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431
+[     267ms] [LOG] [HMR] connected @ http://localhost:3003/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431
+[     313ms] [ERROR] Base UI: A component that acts as a button expected a native <button> because the `nativeButton` prop is true. Rendering a non-<button> removes native button semantics, which can impact forms and accessibility. Use a real <button> in the `render` prop, or set `nativeButton` to `false`.
+    at Button (about://React/Server/file:///Users/jannes/.copilot/repos/j-boilerplate-v2/.next/dev/server/chunks/ssr/_0s5oyiv._.js?21:46:263)
+    at Home (about://React/Server/file:///Users/jannes/.copilot/repos/j-boilerplate-v2/.next/dev/server/chunks/ssr/%5Broot-of-the-server%5D__0n088v1._.js?9:116:286) @ http://localhost:3003/_next/static/chunks/node_modules_next_dist_115brz8._.js:3272
+[   28479ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3003/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431
+[   28533ms] [LOG] [Fast Refresh] done in 46ms @ http://localhost:3003/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431

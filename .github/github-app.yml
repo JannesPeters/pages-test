@@ -1,0 +1,10 @@
+scripts:
+- name: npm install
+  command: npm install
+  triggers:
+  - session.create
+- name: npm run dev
+  command: npm run dev
+automation:
+  auto_issue_session: true
+  remote_control: false
